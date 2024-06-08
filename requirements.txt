@@ -1,0 +1,7 @@
+pillow
+numpy
+matplotlib
+deskew
+torch
+transformers
+einops
